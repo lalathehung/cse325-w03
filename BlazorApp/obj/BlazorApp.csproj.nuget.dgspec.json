@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\cse325-w03\\BlazorApp\\BlazorApp.csproj": {}
+    "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\BlazorApp\\BlazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\cse325-w03\\BlazorApp\\BlazorApp.csproj": {
+    "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\BlazorApp\\BlazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\cse325-w03\\BlazorApp\\BlazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\BlazorApp\\BlazorApp.csproj",
         "projectName": "BlazorApp",
-        "projectPath": "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\cse325-w03\\BlazorApp\\BlazorApp.csproj",
+        "projectPath": "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\BlazorApp\\BlazorApp.csproj",
         "packagesPath": "C:\\Users\\dleun\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\cse325-w03\\BlazorApp\\obj\\",
+        "outputPath": "C:\\Users\\dleun\\OneDrive\\Desktop\\Arthur's\\cse325-w03\\BlazorApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dleun\\AppData\\Roaming\\NuGet\\NuGet.Config"
